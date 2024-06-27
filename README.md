@@ -1,13 +1,13 @@
 # Hi there, I'm Ayush Roy 👋
 
-I'm a passionate Software Engineering fresher with 6 months of experience in developing and managing e-commerce websites. Eager to grow and innovate in the Tech Industry.Passionate about learning Web Development or working as a Web Developer.
+I'm a passionate Software Engineering fresher with 6 months of experience in developing and managing e-commerce website. Eager to grow and innovate in the Tech Industry.Passionate about learning Web Development or working as a Web Developer.
 
 ## 🛠️ Skills and Technologies
 - **Web Development**: HTML, CSS, JavaScript
 - **Frameworks and Tools**: WordPress, WooCommerce, Elementor
 - **Languages**: C++, PHP
 - **Database**: MySQL
-- **Other Skills**: Object-Oriented Programming, Problem-Solving
+- **Other Skills**: Object-Oriented Programming, Problem-Solving, Canva
 
 
 ## 🌟 Projects
@@ -22,7 +22,7 @@ Individual doctor profiles with a permalink structure. Listing page showcasing d
 
 ### [Project 3: Hotel Booking Website]
 - **Description**: Developed a hotel booking platform for a specific region with features such as:
-Multiple vendor system for hotel listings.Detailed hotel pages with photos, descriptions, amenities, and pricing. Booking functionality with availability calendar and user-friendly booking form.
+Multiple vendor systems for hotel listings.Detailed hotel pages with photos, descriptions, amenities, and pricing. Booking functionality with availability calendar and user-friendly booking form.
 - **Technologies Used**: WordPress, Elementor, ACF for WooCommerce, PHP.
 
 ## 📚 Education
@@ -35,9 +35,8 @@ Multiple vendor system for hotel listings.Detailed hotel pages with photos, desc
 - **LinkedIn**: https://www.linkedin.com/in/theayush1808/
 
 ## 🌱 What I'm Currently Learning
-- DSA C++, WordPress Pkugin Development ,PHP and 
-- Frontend frameworks like React.js and Vue.js
-- Improving my problem-solving skills through competitive programming
+- DSA on C++, WordPress Plugin Development, PHP.
+- Improving my problem-solving skills.
 
 ## 💬 Let's Connect
 Feel free to reach out if you want to collaborate on projects, need help, or just want to connect!
