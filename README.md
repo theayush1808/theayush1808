@@ -14,7 +14,6 @@ I'm a passionate Software Engineering fresher with 6 months of experience in dev
 ### [Project 1: E-Commerce Website Development]
 - **Description**: Developed a fully functional e-commerce website using WooCommerce, integrated various payment gateways, and optimized the user interface for better customer experience.
 - **Technologies Used**: WooCommerce, Elementor, PHP, HTML, CSS 
-- **Link**: [GitHub Repository](#)
 
 ### [Project 2: Doctor Information Website]
 - **Description**: Built a comprehensive website for doctors with custom features including custom function to store doctors' information.
@@ -33,7 +32,7 @@ Multiple vendor system for hotel listings.Detailed hotel pages with photos, desc
 
 ## 📫 How to Reach Me
 - **Email**: theayush1808@gmail.com
-- **LinkedIn** **Link**: https://www.linkedin.com/in/theayush1808/
+- **LinkedIn**: https://www.linkedin.com/in/theayush1808/
 
 ## 🌱 What I'm Currently Learning
 - DSA C++, WordPress Pkugin Development ,PHP and 
