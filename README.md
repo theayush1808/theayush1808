@@ -20,13 +20,11 @@ I'm a passionate Software Engineering fresher with 6 months of experience in dev
 - **Description**: Built a comprehensive website for doctors with custom features including custom function to store doctors' information.
 Individual doctor profiles with a permalink structure. Listing page showcasing doctors with images, names, and specialties..
 - **Technologies Used**: WordPress, Elementor, ACF for WooCommerce, PHP.
-- **Link**: [GitHub Repository](#)
 
 ### [Project 3: Hotel Booking Website]
 - **Description**: Developed a hotel booking platform for a specific region with features such as:
 Multiple vendor system for hotel listings.Detailed hotel pages with photos, descriptions, amenities, and pricing. Booking functionality with availability calendar and user-friendly booking form.
 - **Technologies Used**: WordPress, Elementor, ACF for WooCommerce, PHP.
-- **Link**: [GitHub Repository](#)
 
 ## 📚 Education
 - **Degree**: Bachelor of Technology in Computer Science
@@ -35,7 +33,7 @@ Multiple vendor system for hotel listings.Detailed hotel pages with photos, desc
 
 ## 📫 How to Reach Me
 - **Email**: theayush1808@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/theayush1808/
+- **LinkedIn** **Link**: https://www.linkedin.com/in/theayush1808/
 
 ## 🌱 What I'm Currently Learning
 - DSA C++, WordPress Pkugin Development ,PHP and 
